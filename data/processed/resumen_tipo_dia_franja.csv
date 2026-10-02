@@ -1,0 +1,9 @@
+tipo_dia,franja,n,media_kw,mediana_kw,desviacion_kw,p95_kw
+Fin de semana,Madrugada (0–5),144879,0.623,0.336,0.712,2.272
+Fin de semana,Mañana (6–11),144308,1.129,0.688,1.056,3.398
+Fin de semana,Tarde (12–17),144534,1.44,1.356,1.219,3.964
+Fin de semana,Noche (18–23),145131,1.745,1.49,1.419,4.574
+Laborable,Madrugada (0–5),367496,0.457,0.318,0.432,1.412
+Laborable,Mañana (6–11),367342,1.319,1.358,0.95,3.182
+Laborable,Tarde (12–17),367575,0.927,0.486,0.902,2.63
+Laborable,Noche (18–23),368015,1.439,1.234,1.185,3.754

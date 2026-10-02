@@ -1,0 +1,7 @@
+variable_1,variable_2,r_pearson
+Global_active_power,Global_intensity,0.999
+Global_active_power,other_active_energy_wh,0.701
+Global_active_power,Sub_metering_3,0.639
+Global_active_power,Sub_metering_1,0.484
+Global_active_power,Sub_metering_2,0.435
+Global_active_power,Voltage,-0.4

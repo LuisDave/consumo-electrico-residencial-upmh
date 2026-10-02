@@ -1,0 +1,9 @@
+indicador,resultado
+Hora de mayor consumo promedio,20:00 — 1.899 kW
+Hora de menor consumo promedio,04:00 — 0.444 kW
+Relación pico / valle,4.28 veces
+Consumo nocturno medio — laborable,1.439 kW
+Consumo nocturno medio — fin de semana,1.745 kW
+Incremento nocturno fin de semana vs laborable,21.3%
+P95 de Global_active_power,3.264 kW
+Coeficiente de variación de Global_active_power,96.9%
